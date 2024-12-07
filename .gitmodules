@@ -4,3 +4,6 @@
 [submodule "svo_ros_docker"]
 	path = svo_ros_docker
 	url = https://github.com/methylDragon/svo_ros_docker
+[submodule "pytorch-harsha"]
+	path = pytorch-harsha
+	url = https://github.com/pytorch/pytorch.git
